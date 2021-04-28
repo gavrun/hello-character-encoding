@@ -1,6 +1,7 @@
 # hello-character-encoding
 
 1. ASCII
+http://zuga.net/articles/text-the-ascii-table/
 
 2. hexdump
 https://www.di-mgt.com.au/hexdump-for-windows.html
