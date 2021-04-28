@@ -33,7 +33,7 @@ namespace writesomebytes
             {
                 bytes3[i] = (byte)i;
             }
-            File.WriteAllBytes("256bytesBOM.txt", bytes3);
+            File.WriteAllBytes("260bytesBOM.txt", bytes3);
 
         }
     }
