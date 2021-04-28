@@ -9,4 +9,6 @@ https://www.di-mgt.com.au/hexdump-for-windows.html
 3. CRLF
 https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
 
-4. Unicode 
+4. Unicode and other Code pages
+
+5. writesomebytes
